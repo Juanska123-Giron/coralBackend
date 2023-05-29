@@ -1,0 +1,14 @@
+
+Flask==2.3.2
+Flask-Cors==3.0.10
+grpcio==1.54.2
+gunicorn==20.1.0
+keras==2.13.1rc0
+numpy==1.24.3
+opencv-python==4.7.0.72
+pymongo==4.3.3
+tensorboard==2.13.0
+tensorboard-data-server==0.7.0
+tensorflow==2.13.0rc0
+tensorflow-estimator==2.13.0rc0
+tensorflow-cpu==2.13.0rc0
